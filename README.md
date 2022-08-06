@@ -1,1 +1,1 @@
-# Single-Regression
+# linear-Regression
